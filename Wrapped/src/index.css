@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Work sans" sans-serif;
+}
+
+:root {
+  --brand-purple: rgb(60, 30, 100);
+  --brand-pink: rgb(100, 30, 80);
+}
